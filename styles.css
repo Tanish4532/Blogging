@@ -1,0 +1,33 @@
+*{
+    background-color: grey;
+}
+
+header{
+    background-color: grey;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    padding:5px 10px;
+    margin: 5px 10px;
+    font-size: large;
+}
+
+a.button {
+    background-color:black;
+  border: none;
+  color: white;
+  padding: 20px 32px;
+  margin: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  float: right;
+}
+.button:hover {
+    background-color: #555555;
+    color: blue;
+  }
