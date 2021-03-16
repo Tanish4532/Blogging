@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blogging</title>
+    <link rel="stylesheet"type=text/css href="styles.css">
+  </head>
+  <header>
+    <a href="getstarted.html" class="button">Get Started</a>
+    <div class="text">
+      <h1>Blogging</h1>
+    </div>
+  </header>
+  <body></body>
+</html>
