@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blogging</title>
+    <link rel="stylesheet"type=text/css href="styles.css">
+  </head>
+  <header>
+    <div class="search">
+      <input type="text" placeholder="Google Search" name="search" />
+    </div>
+    <a href="getstarted.html" class="button">Get Started</a>
+
+    <div class="text">
+      <h1>Blogging</h1>
+    </div>
+  </header>
+  <body>
+    <div class="container">
+      <div class="topnav">
+        <a class="" href="index.html">Home</a>
+        <a href="index.html">Nation</a>
+        <a href="index.html">Sports</a>
+        <a href="index.html">Politics</a>
+        <a href="index.html">Entertainment</a>
+        <a href="index.html">Search</a>
+        <a href="index.html">Contact Us</a>
+      </div>
+      <hr>
+      <div class="flex-container">
+        <div class="content-1">
+          <img src="image1.jpg">
+          <br>
+          <h2>Should Twiiter Get Rid Of<br>Follower Counts?</h2>
+        
+          <a href="index.html">The possibility feels closer than ever</a>
+          <br>
+          <h3>Cool Neha in All Things Creative</h3>
+          
+          <h2>Jan 9 - 5 min read</h2>
+        </div>
+        <div class="content-2">
+          <img src="img1.png">
+          <br><br>
+          <img src="img2.png">
+          <br><br>
+          <img src="img3.png">
+        </div>
+        <div class="write-1">
+            <p>Html, a standardized system for tagging text<br>files to achieve font, colour, graphic, and<br>hyperlink effects on WWW pages.</p>
+            <br><br>
+            <p>CSS describes how HTML elements are to be<br>displayed on screen, paper, or in other media<br>& control the layout of multiple web pages.</p>
+            <br><br>
+            <p>Teach yourself the foundations of designing<br>using these links made for learning.--<br>freecodecamp & theodinproject</p>
+          </div>
+          <div class="content-3">
+            <img src="featured3.jpg">
+            <br>
+            <h2>No,That's Not How You Say It</h2>
+            
+            <p>A short personal history of my favorite fast food<br>
+            <a href="readmore.html">(Read more...)</a></p>
+            <p>VIP Singh</p>
+            <h2>Jan 29 - 8 min read</h2>
+          </div>
+         
+      </div>
+      </div>
+    </div>
+  </body>
+</html>
