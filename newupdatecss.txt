@@ -1,0 +1,155 @@
+* {
+  background-color: gray;
+}
+
+header {
+  background-color: grey;
+}
+.text {
+  font-family: "Times New Roman", Times, serif;
+  padding: 7px 10px;
+  margin: 7px 10px;
+  font-size: large;
+}
+
+a.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 20px 32px;
+  margin: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  float: right;
+}
+.button:hover {
+  color: lightskyblue;
+}
+
+body {
+  position: relative;
+  height: 300vh;
+}
+
+.topnav {
+  overflow: hidden;
+  padding: 10px 16px;
+  margin: 10px 16px;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 13px 35px;
+  margin: 13px 35px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: lightskyblue;
+  color: white;
+}
+
+.search {
+  float: right;
+  padding-top: 15px;
+  margin-top: 15px;
+  padding-right: 20px;
+  margin-right: 20px;
+}
+input[type="text"] {
+  background-color: white;
+  padding: 6px 6px;
+  margin: 6px 6px;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  width: 1500px;
+  height: 400px;
+  border: 2px solid black;
+  flex-direction: row;
+}
+.content-1 {
+  padding: 6px;
+  margin: 6px;
+}
+.content-1 a {
+  text-decoration: none;
+  color: black;
+}
+
+.content-2 {
+  padding: 12px 3px;
+  margin: 12px 3px;
+}
+
+.write-1 {
+  padding: 12px 3px;
+  margin: 12px 3px;
+}
+
+.content-3 {
+  padding: 12px 4px 4px 80px;
+  margin: 12px 4px 4px 80px;
+}
+
+.content-3 a {
+  text-decoration: none;
+  color: black;
+}
+
+.blog-post {
+  padding: 6px 16px;
+  margin: 6px 16px;
+}
+
+.flex-container-2 {
+  display: flex;
+  border: 2px solid black;
+  width: 1500px;
+  height: 450px;
+}
+
+.content-4 {
+  padding: 10px 8px;
+  margin: 10px 8px;
+}
+
+.content-4 a {
+  text-decoration: none;
+  color: black;
+}
+
+.content-5 {
+  padding: 14px 10px;
+  margin: 14px 10px;
+}
+
+.write-2 {
+  padding: 24px 4px;
+  margin: 24px 4px;
+}
+
+.write-2 a {
+  text-decoration: none;
+  color: black;
+}
+
+.content-6 {
+  padding: 14px 50px;
+  margin: 14px 50px;
+}
+.content-6 a {
+  text-decoration: none;
+  color: black;
+}
