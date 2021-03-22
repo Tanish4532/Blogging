@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blogging</title>
+    <link rel="stylesheet"type=text/css href="styles.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <header>
+    <div class="search">
+      <input type="text" placeholder="Google Search" name="search" />
+    </div>
+    <a href="getstarted.html" class="button">Get Started</a>
+
+    <div class="text">
+      <h1>Blogging</h1>
+    </div>
+  </header>
+  <body>
+    <div class="container">
+      <div class="topnav">
+        <a class="" href="index.html">Home</a>
+        <a href="index.html">Nation</a>
+        <a href="index.html">Sports</a>
+        <a href="index.html">Politics</a>
+        <a href="index.html">Entertainment</a>
+        <a href="index.html">Search</a>
+        <a href="index.html">Contact Us</a>
+      </div>
+      <hr />
+      <div class="flex-container">
+        <div class="content-1">
+          <img src="image1.jpg" />
+          <br />
+          <h2>Should Twiiter Get Rid Of<br />Follower Counts?</h2>
+
+          <a href="index.html">The possibility feels closer than ever</a>
+          <br />
+          <h3>Cool Neha in All Things Creative</h3>
+
+          <h2>Jan 9 - 5 min read</h2>
+        </div>
+        <div class="content-2">
+          <img src="img1.png" />
+          <br /><br />
+          <img src="img2.png" />
+          <br /><br />
+          <img src="img3.png" />
+        </div>
+        <div class="write-1">
+          <p>
+            Html, a standardized system for tagging text<br />files to achieve
+            font, colour, graphic, and<br />hyperlink effects on WWW pages.
+          </p>
+          <br /><br />
+          <p>
+            CSS describes how HTML elements are to be<br />displayed on screen,
+            paper, or in other media<br />& control the layout of multiple web
+            pages.
+          </p>
+          <br /><br />
+          <p>
+            Teach yourself the foundations of designing<br />using these links
+            made for learning.--<br />freecodecamp & theodinproject
+          </p>
+        </div>
+        <div class="content-3">
+          <img src="featured3.jpg" />
+          <br />
+          <h2>No,That's Not How You Say It</h2>
+
+          <p>
+            A short personal history of my favorite fast food<br />
+            <a href="readmore.html">(Read more...)</a>
+          </p>
+          <p>VIP Singh</p>
+          <h2>Jan 29 - 8 min read</h2>
+        </div>
+      </div>
+      <hr />
+      <div class="blog-post">
+        <img src="post.png" />
+      </div>
+      <hr />
+      <div class="flex-container-2">
+        <div class="content-4">
+          <img src="code.jpg" /><br />
+          <h2>A few good reasons why you <br />should learn to code</h2>
+
+          <a href="index.html"
+            >You might be wondering if learning to code is<br />something you
+            should...</a
+          ><br />
+          <p>Rocky Jagtani</p>
+
+          <h3>Jan 9-5 min read</h3>
+        </div>
+        <div class="content-5">
+          <img src="invest.png" />
+          <br /><br />
+          <img src="summer.png" />
+          <br /><br />
+          <img src="abc.png" />
+        </div>
+        <div class="write-2">
+          <a href="index.html"
+            >Only buy something that you’d be perfectly<br />happy to hold if
+            the market shut down for 10<br />years.</a
+          >
+          <br /><br /><br />
+          <a href="index.html"
+            >When I figured out how to work my grill, it was<br />quite a
+            moment. I discovered that summer is a<br />completely different
+            experience when you<br />know how to grill.</a
+          >
+          <br /><br /><br /><br /><br />
+          <a href="index.html"
+            >Chains of habit are too light to be felt until they<br />are too
+            heavy to be broken.</a
+          >
+        </div>
+        <div class="content-6">
+          <img src="beach.jpg" />
+          <h2>
+            Deep space radio waves baffle<br />astronomers; aliens not ruled<br />out
+          </h2>
+          <a href="index.html"
+            >Every time we see something we’ve never seen<br />before that is an
+            opportunity..</a
+          >
+          <p>Enzyme Snehar</p>
+          <h3>Jan 29 · 8 min read</h3>
+        </div>
+      </div>
+      <hr />
+    </div>
+    <footer>
+      <div class="last-sect">
+        <a href="aboutus.html">About Us</a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="">Privacy Policy</a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="">Newsletter</a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="">Sitemap</a><br />
+        <h4>FOLLOW US ON</h4>
+
+        <i class="fa fa-facebook"></i>
+        <i class="fa fa-twitter"></i>
+        <i class="fa fa-google"></i>
+        <i class="fa fa-wifi"></i>
+        <i class="fa fa-youtube-play" style="font-size: 24px; color: red"></i>
+        <p>
+          Copyright &copy;2019&nbsp;<a href="index.html"
+            >Suven Consultants and technology pvt ltd</a
+          >&nbsp;All rights reserved
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
