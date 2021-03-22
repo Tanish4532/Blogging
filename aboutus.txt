@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blogging</title>
+    <link rel="stylesheet" tupe="text/css" href="styling.css" />
+  </head>
+  <header>
+    <a href="index.html">Home</a>
+    <div class="imp">
+      <a href="index.html" class="button">Our Story</a>
+      <a href="aboutus.html" class="button">About Membership</a>
+    </div>
+    <div class="texting">
+      <h1>Blogging</h1>
+    </div>
+  </header>
+  <body>
+    <div class="container">
+      <div class="big">
+        <h1>Welcome to Blogging,where<br />words matter.</h1>
+        <img src="abc.gif" />
+      </div>
+      <div class="big2">
+        <h1>Ideas and perspectives you won't find<br />anywhere else.</h1>
+      </div>
+      <div class="flex-container-3">
+        <div class="contents">
+          <p>
+            An Internship Provides Real<br />Life Experience and<br />Exposure.
+            Employers in<br />today's labor market rely<br />heavily on resumes
+            that<br />illustrate a relevant work<br />history, whether that's
+            from<br />internships, volunteer work,<br />or actual job
+            experience. A<br />practical work background<br />carries a major
+            significance<br />when attempting to enter the<br />job market. It's
+            all about<br /><br />-<b>Rohan</b>
+          </p>
+        </div>
+        <div class="contents-1">
+          <p>
+            The experiences we go<br />through are what shapes us.<br />Your
+            internship will not only<br />encourage personal<br />development,
+            but also a<br />greater understanding of self.<br />To know yourself
+            is to know<br />your goals and how to best<br />achieve them.
+            Finding this<br />level of clarity is difficult, but<br />sometimes
+            all it takes is<br />trying someone new, out of<br />your comfort
+            zone.<br /><br />-<b>Ashish</b>
+          </p>
+        </div>
+        <div class="contents-2">
+          <p>
+            Networking is an exchange<br />of information between<br />people,
+            with the ultimate goal<br />of establishing<br />acquaintances
+            and<br />relationships to advance your<br />professional career.
+            Sure,<br />you can attend a networking<br />event without doing
+            an<br />internship, but you would be<br />limiting yourself.
+            Partaking in<br />an internship allows you to<br />establish
+            deeper<br />relationships than you<br />stranger one-on-one.<br />-<b
+              >Sameer</b
+            >
+          </p>
+        </div>
+        <div class="contents-3">
+          <p>
+            The student is given a<br />chance to decide whether<br />they wish
+            to continue with<br />their current career path or<br />try
+            something else. The more<br />experience you acquire, the<br />better
+            you position yourself<br />for success in landing a job.<br />An
+            internship is the building<br />blocks necessary for creating<br />the
+            path to a successful<br />career. So next time you're<br />on a gap
+            year or summer<br />break, you might want to<br />consider indulging
+            in a<br />meaningful internship and<br />build towards your
+            future.<br />-<b>Joshua</b>
+          </p>
+        </div>
+      </div>
+      <div class="image">
+        <img src="unlock.png" />
+      </div>
+    </div>
+  </body>
+</html>
