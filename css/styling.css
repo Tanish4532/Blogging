@@ -1,0 +1,80 @@
+* {
+  background-color: gray;
+}
+
+.header {
+  display: inline-block;
+}
+header a {
+  text-decoration: none;
+  color: black;
+  padding: 3px 16px;
+  margin: 3px 16px;
+}
+
+.texting {
+  padding: 3px 30px;
+  margin: 3px 30px;
+}
+body {
+  height: 270vh;
+}
+
+.imp a:link,
+.imp a:visited {
+  background-color: black;
+  color: white;
+  padding: 12px 45px;
+  margin: 12px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  float: right;
+}
+
+.imp a:hover {
+  color: lightskyblue;
+}
+
+.big {
+  padding: 2px 40px;
+  margin: 2px 40px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.big2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  padding: 5px 60px;
+  margin: 5px 60px;
+}
+
+.flex-container-3 {
+  display: flex;
+}
+
+.contents {
+  padding: 6px 50px;
+  margin: 6px 50px;
+}
+
+.contents-1 {
+  padding: 6px 20px;
+  margin: 6px 20px;
+}
+
+.contents-2 {
+  padding: 6px 35px;
+  margin: 6px 35px;
+}
+
+.contents-3 {
+  padding: 6px 30px;
+  margin: 6px 30px;
+}
+
+.image {
+  padding: 26px 60px;
+  margin: 26px 60px;
+}

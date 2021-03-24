@@ -1,0 +1,66 @@
+*{
+    background-color: grey;
+}
+header a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    padding: 10px 12px;
+    margin: 10px 12px;
+}
+.info{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.info2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.fb{
+    text-align: center;
+}
+.facebook 
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    background-image: linear-gradient(#4C69BA, #3B55A0);
+    text-shadow: 0 -1px 0 #354C8C;
+   
+    margin: 0 auto;
+    font-weight: bold;
+    height: 35px;
+    cursor: pointer;
+}
+.facebook:hover{height: 40px;}
+
+
+.ggl{
+    text-align: center;
+}
+.google
+{
+   font-family: 'Times New Roman', Times, serif;
+    background: rgba(255, 255, 255, 0.884);
+    margin: 0 auto;
+    color: black;
+    font-weight: bold;
+    height: 35px;
+    cursor: pointer;
+    
+}
+.google:hover{height: 40px;}
+
+.texts{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.texts2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+}
